@@ -1,0 +1,259 @@
+﻿++Solução 'WebCRUD' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:WebCRUD.sln
+++WebCRUD
+i:{00000000-0000-0000-0000-000000000000}:WebCRUD
+++Connected Services 
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:>195
+++Dependências
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:>194
+++Analisadores
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:analisadores
+++MessagePackAnalyzer
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Estruturas
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:estruturas
+++Pacotes
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:pacotes
+++Properties
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\properties\
+++launchSettings.json
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\properties\launchsettings.json
+++wwwroot
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\
+++css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\css\
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\
+++site.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\css\site.css
+++js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\js\
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\js\site.js
+++lib
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\
+++bootstrap
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\
+++jquery
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery\
+++jquery-validation
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\favicon.ico
+++Controllers
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\controllers\
+++HomeController.cs
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\controllers\homecontroller.cs
+++ProdutosController.cs
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\controllers\produtoscontroller.cs
+++Migrations
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\migrations\
+++20220319011437_Initial-criacao.cs
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\migrations\20220319011437_initial-criacao.cs
+++ContextoModelSnapshot.cs
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\migrations\contextomodelsnapshot.cs
+++Models
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\models\
+++Contexto.cs
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\models\contexto.cs
+++ErrorViewModel.cs
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\models\errorviewmodel.cs
+++Produto.cs
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\models\produto.cs
+++Views
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\
+++Home
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\home\
+++Index.cshtml
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\home\index.cshtml
+++Privacy.cshtml
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\home\privacy.cshtml
+++Shared
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\shared\
+++_Layout.cshtml
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\_viewstart.cshtml
+++appsettings.json
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\appsettings.json
+++appsettings.Development.json
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\appsettings.development.json
+++Program.cs
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\program.cs
+++README.md
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\readme.md
+++Nenhuma dependência de serviço descoberta
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:>196
+++Microsoft.AspNetCore.App
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.3)
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:>270
+++Microsoft.EntityFrameworkCore.Design (6.0.3)
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:>274
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:>279
+++dist
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery\dist\
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery\license.txt
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++20220319011437_Initial-criacao.Designer.cs
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\migrations\20220319011437_initial-criacao.designer.cs
+++_Layout.cshtml.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\views\shared\_layout.cshtml.css
+++jquery.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:c:\users\jgjcp\desktop\nova pasta\webcrud\webcrud\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:>897
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{fa726b48-a03c-4e0b-9fcc-0b39a7a950b4}:>898
